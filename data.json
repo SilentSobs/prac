@@ -1,0 +1,631 @@
+{
+  "hotel": {
+    "name": "Dera Jaipur A Heritage Homestay",
+    "description": "Dera Jaipur is an elegant heritage home built in 1946 and is a leafy paradise in the heart of the World Heritage UNESCO city of Jaipur. It is a classic home furnished for modern times, with beautiful lawns and terrace gardens. This heritage home steeped in the past belonged to a World War II veteran Col. Sumer Singh MBE and his wife Suraj Kunwar, who came from an erstwhile nobility of Shekhawati in Rajasthan. The region and the home are filled with frescoes. The family has a 500-year-old history and has had two generations in the Indian Armed Forces. Dera Jaipur is adorned with splendid frescoes, Burma teak furniture, Murano chandeliers, and vintage photographs. We pride ourselves in conjuring up delectable dishes, some of which are family heirlooms.",
+    "why_choose": "The rooms are peaceful, luxurious and meant for those who do not like to be hemmed in. You can enjoy fun activities like mural painting, block-printing, learning traditional Rajasthani cooking and photography in traditional Rajasthani attire, or celebrate the festivals of Diwali, Dussehra, Makar Sankranti and Holi. The hosts also organise special occasions for their guests with local bards, bonfires and curated meals. In addition, yoga sessions and shopping pop-ups are a pleasant surprise.",
+    "attractions": {
+      "majestic_forts": "Explore the grandeur of Amer Fort, Nahargarh Fort, and Jaigarh Fort - architectural marvels that tell tales of Rajasthan's royal past.",
+      "cultural_treasures": "Discover the City Palace, Albert Hall Museum, and other cultural landmarks that showcase Jaipur's rich heritage.",
+      "artisan_villages": "Visit Bagru and Sanganer to witness the traditional art of block printing that Rajasthan is famous for.",
+      "wildlife_adventures": "Experience the thrill of early morning leopard safaris in the nearby Jhalana and Amagarh Leopard Reserve.",
+      "spiritual_journeys": "Embark on temple tours to explore the spiritual side of Rajasthan.",
+      "for_young_guests": "Kids can enjoy feeding the rabbit, board games, and other engaging activities."
+    },
+    "hosts": [
+      {
+        "name": "Lt. Gen. Dr. Kunwar Karni Singh, PVSM, SM, VSM, Retd.",
+        "description": "Dr. Karni Singh, a reputed neurologist by profession, has had the unique privilege of serving in the Indian Army and Indian Navy. Having travelled extensively, he shares interesting tales of life in the Services, wildlife, sports and travel experiences in India and abroad."
+      },
+      {
+        "name": "Mrs. Rekha Rani Singh",
+        "description": "Mrs. Rekha Rani Singh hails from an erstwhile royal family in Uttar Pradesh. Alumnus of Loreto Convent, Lucknow, she was well versed in the finer nuances of life and hospitality beyond compare. Having seen impeccable entertainment and bonhomie in the Armed Forces, she established Dera Jaipur Homestay in 2019. She loves cooking, gardening, travelling and above all hosting people."
+      }
+    ],
+    "contact": {
+      "address": "D-226 Tulsi Marg, Bani Park, Jaipur, Rajasthan 302016",
+      "phone": "+91 7357542999",
+      "email": "derajaipur@gmail.com",
+      "instagram": "Follow us on Instagram",
+      "quick_links": ["Home", "About Us", "Rooms", "Gallery", "Experiences", "Contact"],
+      "legal": ["Privacy Policy", "Terms and Conditions"],
+      "copyright": "© 2025 Dera Jaipur. All rights reserved."
+    },
+    "house_rules": {
+      "check_in": "1:00 pm",
+      "check_out": "11:00 am",
+      "non_smoking": "Non-smoking rooms",
+      "kitchen_access": "Guests do not have kitchen access. Everything else is accessible."
+    }
+  },
+  "rooms": [
+    {
+      "name": "Megh Malhar 204",
+      "floor": "First Floor",
+      "description": "The room has a charming queen bed, wardrobe, and tea and coffee maker which is perfect for any solo traveller. Whether you are here for business or leisure, this bedroom with fine linen is your perfect sanctuary ensuring a restful night's sleep after a day of exploration. The en suite bathroom offers hot and cold water and comes fitted with a powerful shower.",
+      "area_sqft": 145,
+      "max_guests": 1,
+      "bed_type": "Queen",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Hair dryer",
+        "Laundry service",
+        "Electric Iron on request",
+        "Air conditioning",
+        "Meals on order from a set menu",
+        "Tea and coffee maker",
+        "Coffee Table Books in Lounge",
+        "Wardrobe",
+        "Lift access",
+        "Hangers",
+        "Select Handcrafted Furnishings",
+        "Plush Robes and slippers",
+        "Yoga mats on third floor terrace",
+        "Toiletries",
+        "Golf Umbrella on request",
+        "Walk in shower"
+      ]
+    },
+    {
+      "name": "Khamaj 203",
+      "floor": "First Floor",
+      "description": "The room is luxurious, peaceful and has tasteful hand-painted wall art lending Indian tradition a modern elegance. It is perfect for leisure and business travel. The room is a haven of welcoming tones, rich textures, sophisticated décor and beautiful handcrafted rugs that have been locally sourced. The en suite bathroom offers hot and cold water and comes with a powerful shower.",
+      "area_sqft": 269,
+      "max_guests": 2,
+      "bed_type": "King",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Writing desk and chair",
+        "Laundry service",
+        "Select Handcrafted Furnishings",
+        "Air conditioning",
+        "Netflix on Flat screen LCD TV",
+        "Tea and coffee maker",
+        "Electric Iron on request",
+        "Minibar",
+        "Meals on order from a set menu",
+        "Wardrobe",
+        "Coffee Table Books in Lounge",
+        "Hangers",
+        "Lift access",
+        "Plush Robes and slippers",
+        "Local Art",
+        "Toiletries",
+        "Live plants",
+        "Hair dryer",
+        "Yoga mats on third floor terrace",
+        "Walk in shower",
+        "Golf Umbrella on request"
+      ]
+    },
+    {
+      "name": "Purvi 202",
+      "floor": "First Floor",
+      "description": "The room is luxurious, peaceful and has tasteful hand-painted wall art lending Indian tradition a modern elegance. It is perfect for leisure and business travel. The room is a haven of welcoming tones, rich textures, sophisticated décor and beautiful handcrafted rugs that have been locally sourced. The en suite bathroom offers hot and cold water and comes with a powerful shower.",
+      "area_sqft": 378,
+      "max_guests": 3,
+      "bed_type": "1 King and 1 Single",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Writing desk and chair",
+        "Laundry service",
+        "Select Handcrafted Furnishings",
+        "Air conditioning",
+        "Netflix on Flat screen LCD TV",
+        "Tea and coffee maker",
+        "Electric Iron on request",
+        "Minibar",
+        "Meals on order from a set menu",
+        "Wardrobe",
+        "Coffee Table Books in Lounge",
+        "Hangers",
+        "Lift access",
+        "Plush Robes and slippers",
+        "Local Art",
+        "Toiletries",
+        "Live plants",
+        "Hair dryer",
+        "Yoga mats on third floor terrace",
+        "Walk in shower",
+        "Golf Umbrella on request"
+      ]
+    },
+    {
+      "name": "Bhairav 201",
+      "floor": "First Floor",
+      "description": "The room is luxurious, peaceful, and meant for those who do not like to be hemmed in. It is perfect for a family whether traveling for leisure or business. The room is a haven of modern elegance, featuring welcoming tones, rich textures, hand-painted wall art, sophisticated décor and beautiful handcrafted rugs that have been locally sourced. The en suite bathroom offers hot and cold water and comes with a powerful shower.",
+      "area_sqft": 429,
+      "max_guests": 3,
+      "bed_type": "1 King and 1 Single",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Writing desk and chair",
+        "Laundry service",
+        "Select Handcrafted Furnishings",
+        "Air conditioning",
+        "Netflix on Flat screen LCD TV",
+        "Tea and coffee maker",
+        "Electric Iron on request",
+        "Minibar",
+        "Meals on order from a set menu",
+        "Wardrobe",
+        "Coffee Table Books in Lounge",
+        "Hangers",
+        "Lift access",
+        "Plush Robes and slippers",
+        "Local Art",
+        "Toiletries",
+        "Live plants",
+        "Hair dryer",
+        "Yoga mats on third floor terrace",
+        "Walk in shower",
+        "Golf Umbrella on request"
+      ]
+    },
+    {
+      "name": "Bilawal 303",
+      "floor": "Second Floor",
+      "description": "The room is luxurious, peaceful and has tasteful hand-painted wall art lending Indian tradition a modern elegance. It is perfect for leisure and business travel. The room is a haven of welcoming tones, rich textures, sophisticated décor and beautiful handcrafted rugs that have been locally sourced. The en suite bathroom offers hot and cold water and comes with a powerful shower.",
+      "area_sqft": 269,
+      "max_guests": 2,
+      "bed_type": "King",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Writing desk and chair",
+        "Laundry service",
+        "Select Handcrafted Furnishings",
+        "Air conditioning",
+        "Netflix on Flat screen LCD TV",
+        "Tea and coffee maker",
+        "Electric Iron on request",
+        "Minibar",
+        "Meals on order from a set menu",
+        "Wardrobe",
+        "Coffee Table Books in Lounge",
+        "Hangers",
+        "Lift access",
+        "Plush Robes and slippers",
+        "Local Art",
+        "Toiletries",
+        "Live plants",
+        "Hair dryer",
+        "Yoga mats on third floor terrace",
+        "Walk in shower",
+        "Golf Umbrella on request"
+      ]
+    },
+    {
+      "name": "Malkauns 302",
+      "floor": "Second Floor",
+      "description": "The room is luxurious, peaceful, and meant for those who do not like to be hemmed in. It is perfect for friends traveling for leisure or business travel. It has modern elegance featuring welcoming tones and sophisticated décor featuring fine linen, rich wallpaper, and beautiful handcrafted rugs that have been locally sourced. The room has a very large en suite bathroom offering hot and cold water and comes with a powerful shower.",
+      "area_sqft": 378,
+      "max_guests": 2,
+      "bed_type": "Twin",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Writing desk and chair",
+        "Laundry service",
+        "Select Handcrafted Furnishings",
+        "Air conditioning",
+        "Netflix on Flat screen LCD TV",
+        "Tea and coffee maker",
+        "Electric Iron on request",
+        "Minibar",
+        "Meals on order from a set menu",
+        "Wardrobe",
+        "Coffee Table Books in Lounge",
+        "Hangers",
+        "Lift access",
+        "Plush Robes and slippers",
+        "Local Art",
+        "Toiletries",
+        "Live plants",
+        "Hair dryer",
+        "Yoga mats on third floor terrace",
+        "Walk in shower",
+        "Golf Umbrella on request"
+      ]
+    },
+    {
+      "name": "Yaman Kalyan 304",
+      "floor": "Second Floor",
+      "description": "The room is luxurious, peaceful, and meant for those who do not like to be hemmed in. It is perfect for leisure and business travel. The room is a haven of modern elegance, featuring welcoming tones, rich textures, tasteful hand-painted wall art, sophisticated décor and beautiful handcrafted rugs that have been locally sourced. The en suite bathroom offers hot and cold water and comes with a powerful shower.",
+      "area_sqft": 378,
+      "max_guests": 2,
+      "bed_type": "King",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Writing desk and chair",
+        "Laundry service",
+        "Select Handcrafted Furnishings",
+        "Air conditioning",
+        "Netflix on Flat screen LCD TV",
+        "Tea and coffee maker",
+        "Electric Iron on request",
+        "Minibar",
+        "Meals on order from a set menu",
+        "Wardrobe",
+        "Coffee Table Books in Lounge",
+        "Hangers",
+        "Lift access",
+        "Plush Robes and slippers",
+        "Local Art",
+        "Toiletries",
+        "Live plants",
+        "Hair dryer",
+        "Yoga mats on third floor terrace",
+        "Walk in shower",
+        "Golf Umbrella on request"
+      ]
+    },
+    {
+      "name": "Hindol 301",
+      "floor": "Second Floor",
+      "description": "The room is luxurious, peaceful, and meant for those who do not like to be hemmed in. It is perfect for a family whether traveling for leisure or business. The room is a haven of modern elegance, featuring welcoming tones, rich textures, hand-painted wall art, sophisticated décor and beautiful handcrafted rugs that have been locally sourced. The en suite bathroom offers hot and cold water and comes with a powerful shower.",
+      "area_sqft": 429,
+      "max_guests": 3,
+      "bed_type": "1 King and 1 Single",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Writing desk and chair",
+        "Laundry service",
+        "Select Handcrafted Furnishings",
+        "Air conditioning",
+        "Netflix on Flat screen LCD TV",
+        "Tea and coffee maker",
+        "Electric Iron on request",
+        "Minibar",
+        "Meals on order from a set menu",
+        "Wardrobe",
+        "Coffee Table Books in Lounge",
+        "Hangers",
+        "Lift access",
+        "Plush Robes and slippers",
+        "Local Art",
+        "Toiletries",
+        "Live plants",
+        "Hair dryer",
+        "Yoga mats on third floor terrace",
+        "Walk in shower",
+        "Golf Umbrella on request"
+      ]
+    },
+    {
+      "name": "Asavari 403",
+      "floor": "Third Floor",
+      "description": "The room is luxurious, and peaceful and has tasteful hand-painted wall art lending Indian tradition a modern elegance. It is perfect for leisure and business travel. The room is a haven of welcoming tones, rich textures, sophisticated décor and beautiful handcrafted rugs that have been locally sourced. The en suite bathroom offers hot and cold water and comes with a powerful shower.",
+      "area_sqft": 269,
+      "max_guests": 2,
+      "bed_type": "King",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Writing desk and chair",
+        "Laundry service",
+        "Select Handcrafted Furnishings",
+        "Air conditioning",
+        "Netflix on Flat screen LCD TV",
+        "Tea and coffee maker",
+        "Electric Iron on request",
+        "Minibar",
+        "Meals on order from a set menu",
+        "Wardrobe",
+        "Coffee Table Books in Lounge",
+        "Hangers",
+        "Lift access",
+        "Plush Robes and slippers",
+        "Local Art",
+        "Toiletries",
+        "Live plants",
+        "Hair dryer",
+        "Yoga mats on third floor terrace",
+        "Walk in shower",
+        "Golf Umbrella on request"
+      ]
+    },
+    {
+      "name": "Kafi 402",
+      "floor": "Third Floor",
+      "description": "The room is luxurious, peaceful, and meant for those who do not like to be hemmed in. It is perfect for friends traveling for leisure or business travel. It has modern elegance featuring welcoming tones and sophisticated décor featuring fine linen, rich wallpaper, and beautiful handcrafted rugs that have been locally sourced. The room has a very large en suite bathroom offering hot and cold water and comes with a powerful shower.",
+      "area_sqft": 378,
+      "max_guests": 2,
+      "bed_type": "Twin",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Writing desk and chair",
+        "Laundry service",
+        "Select Handcrafted Furnishings",
+        "Air conditioning",
+        "Netflix on Flat screen LCD TV",
+        "Tea and coffee maker",
+        "Electric Iron on request",
+        "Minibar",
+        "Meals on order from a set menu",
+        "Wardrobe",
+        "Coffee Table Books in Lounge",
+        "Hangers",
+        "Lift access",
+        "Plush Robes and slippers",
+        "Local Art",
+        "Toiletries",
+        "Live plants",
+        "Hair dryer",
+        "Yoga mats on third floor terrace",
+        "Walk in shower",
+        "Golf Umbrella on request"
+      ]
+    },
+    {
+      "name": "Darbari 401",
+      "floor": "Third Floor",
+      "description": "The suite is luxurious, peaceful, and meant for those who do not like to be hemmed in. It comes with two large master bedrooms and two en-suite bathrooms. It is perfect for a family whether traveling for leisure or business. The suite is a haven of modern elegance, featuring welcoming tones, rich textures, hand-painted wall art, sophisticated décor and beautiful handcrafted rugs that have been locally sourced. The en suite bathrooms offer hot and cold water and come with a powerful shower.",
+      "area_sqft": 555,
+      "max_guests": 4,
+      "bed_type": "2 King",
+      "amenities": [
+        "Complimentary Breakfast",
+        "Water heater",
+        "Free Wi-Fi",
+        "Room heater",
+        "Daily Housekeeping",
+        "Writing desk and chair",
+        "Laundry service",
+        "Select Handcrafted Furnishings",
+        "Air conditioning",
+        "Netflix on Flat screen LCD TV",
+        "Tea and coffee maker",
+        "Electric Iron on request",
+        "Minibar",
+        "Meals on order from a set menu",
+        "Wardrobe",
+        "Coffee Table Books in Lounge",
+        "Hangers",
+        "Lift access",
+        "Plush Robes and slippers",
+        "Local Art",
+        "Toiletries",
+        "Live plants",
+        "Hair dryer",
+        "Yoga mats on third floor terrace",
+        "Walk in shower",
+        "Golf Umbrella on request"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Traditional wear experience (without photograph)",
+      "description": "Rajasthan is a place of tradition and vibrant colours known for its turbans and colourful women's wear. The colour meringue symbolizes joy, dignity and respect. Dera Jaipur is a heritage homestay belonging to a reputed Rajput family from the erstwhile principality of Shekhawati. We are adept in the finer nuances of Rajput culture and will help you capture fine memories of dressing up in traditional wear.",
+      "rates": [
+        "Safa tying/ Saree wearing INR 2,000 per person*",
+        "Saree wearing INR 2,000 per person*"
+      ],
+      "notes": "*Rates are inclusive of tea and light snacks and do not include photography. Taxes as applicable. **Traditional wear with photography INR 5,000 per person"
+    },
+    {
+      "name": "Traditional wear experience (with photograph)",
+      "description": "Rajasthan is a place of tradition and vibrant colours known for its turbans and colourful women's wear. The colour meringue symbolizes joy, dignity and respect. Dera Jaipur is a heritage homestay belonging to a reputed Rajput family from the erstwhile principality of Shekhawati. We are adept in the finer nuances of Rajput culture and will help you capture fine memories of dressing up in traditional wear. Take home a memorable photo as a souvenir.",
+      "rates": [
+        "Safa tying INR 5,000 per person*",
+        "Saree wearing INR 5,000 per person*"
+      ],
+      "notes": "*Rates are inclusive of tea, and light snacks and include photography. Taxes as applicable."
+    },
+    {
+      "name": "Learn Rajasthani Block Printing",
+      "description": "Learn traditional Rajasthani block printing that involves hand-carved wooden blocks to stamp intricate designs onto cotton fabric. This technique is deeply rooted in Rajasthan's culture, especially in Jaipur, Bagru, and Sanganer. Create everlasting memories and take home a set of 6 table napkins created all by you!",
+      "rate": "INR 3,000 per person*. Taxes as applicable."
+    },
+    {
+      "name": "Learn Rajasthani Mural Painting",
+      "description": "Learn Rajasthani mural paintings which originated in the palaces, forts, and temples of Rajasthan, reflecting the region’s rich heritage. They were influenced by Mughal, Mewar, and Marwar styles, showcasing the blend of traditional Indian art with royal patronage. Create everlasting memories and take home a work of art created by you.",
+      "rate": "INR 3,000 per person*. Taxes as applicable"
+    },
+    {
+      "name": "Rajasthani Food Cooking Demonstration and Home Tour",
+      "description": "Rajasthan, the land of vibrant colours, royal heritage, and majestic forts, is known for its rich and diverse cuisine. The food of Rajasthan reflects the region's arid climate, where ingredients are chosen to withstand the harsh conditions, and Flavours are bold, spicy, and robust. Learn about traditional Rajasthani cooking methods, utensils, Indian spices, and the special ‘Bhunao” technique which is only peculiar to Indian cooking. Participate in a fun rolling of ‘Chapattis' and enjoy your special Rajasthani meal! Take home a recipe guide and an assortment of traditional spices to showcase your culinary skills to your loved ones. After the cooking demonstration, you can enjoy a tour of the heritage home that tells a rich history through art and old photographs.",
+      "dishes": [
+        "One Dal (lentil curry)",
+        "One vegetarian dish",
+        "One non-veg dish/ one vegetarian dish",
+        "Fun rolling of the ‘chapattis’"
+      ],
+      "rate": "INR 5,000 per person* *Rate inclusive of cooking demonstration, home tour, live music, recipe book, spice kit, a glass of wine/ beer and a sit-down dinner. Taxes as applicable."
+    },
+    {
+      "name": "Experience Fine Dining in Silver Thali",
+      "description": "Fine dining is an experiential art of the senses, which Dera Jaipur combines with Elan. You can create a memorable evening, with curated meals for you and your loved ones.",
+      "rate": "INR 5,000 per person* *Rate inclusive of a glass of wine/ beer and a sit-down lunch/ dinner served in a silver thali. Taxes as applicable."
+    },
+    {
+      "name": "Dussehra/ Diwali/ Makar Sankranti/ Holi celebration",
+      "description": "Celebrate Dussehra/ Diwali/ Makar Sankranti/ Holi with live music, authentic local cuisine and Rajput customs. Participate in the festivities and feel the soul of India. Take home happy memories of love, hope, equality and happiness.",
+      "rate": "INR 5,000 per person* *Rate inclusive of a glass of wine/ beer. Taxes as applicable."
+    },
+    {
+      "name": "Renew Your Marriage Vows",
+      "description": "Renewing your marriage vows is a beautiful way to reaffirm your love and commitment to your partner. Whether it’s been five years or fifty, this heartfelt gesture offers a chance to reflect on the journey you've shared, celebrate the milestones, and express your enduring promises to each other.",
+      "rate": "INR 50,000 per couple* *Rate inclusive of an intimate Mandap, Agni Kund (fire pit), Hindu priest, flower decorations, live music, photography, followed by dinner and complimentary beverages. Taxes as applicable. **INR 5,000 per person for guests. Rate inclusive of a glass of wine/ beer. Taxes as applicable. ***Children between the age of 7-12 years will be charged INR 2,500 per child. Taxes as applicable."
+    },
+    {
+      "name": "Early morning temple visit",
+      "description": "Rejuvenate yourself with the blessings of God with an early morning temple visit. -Moti Dungri Ganesh Ji Mandir -Shri Govind Dev Ji Mandir -Shri Kalki Mandir -Khole Ke Hanuman Ji Mandir",
+      "rate": "INR 4,000 per person. Taxes as applicable."
+    },
+    {
+      "name": "Hiking near Amber Fort",
+      "description": "Hiking near Amber Fort offers a blend of natural beauty, panoramic views, and deep historical significance. Located just 11 kilometres from Jaipur, Amer Fort is perched on a hill and surrounded by rugged terrain, making it an ideal spot for scenic hikes.",
+      "details": {
+        "start_time": "5 am",
+        "starting_point": "Amber Fort",
+        "hiking_trail": "Sagar Lake Hike",
+        "time_taken": "2.5-3 hrs",
+        "kms_covered": "8 km"
+      },
+      "rate": "INR 3,000 per person. Taxes as applicable.",
+      "inclusions": "Guided Hike (English speaking), trek leader assistance, medical team, breakfast, jungle tea, pick and drop from Dera Jaipur"
+    },
+    {
+      "name": "Bicycle Tour",
+      "description": "Whether you’re a history enthusiast, an adventure seeker, or a curious traveller, exploring the city on two wheels offers a unique perspective that goes beyond the typical tourist trail.",
+      "details": {
+        "start_time": "6 am",
+        "starting_point": "Lords Plaza Hotel, C-Scheme",
+        "time_taken": "3 hrs",
+        "distance_covered": "12 km",
+        "important_monuments": "Ajmeri gate, Choti Chaupad, City Palace, Govind Dev Ji Mandir, Flower market, Man Singh Town Hall, Hawa mahal"
+      },
+      "rate": "INR 4,000 per person. Taxes as applicable.",
+      "inclusions": "Mountain bike and riding equipment, trip leader (English speaking), ride covering 12 kms, local street food sampling (Samrat Ki Kachori and chai), pick and drop from Dera Jaipur"
+    },
+    {
+      "name": "Breakfast Food Walk",
+      "description": "Embark on a breakfast food walk in Jaipur offering a delightful journey through the city's rich culinary heritage. From time-honoured street stalls to iconic eateries, Jaipur's morning flavours are a testament to its vibrant culture and history.",
+      "details": {
+        "start_time": "6:30 am/ 11:30 am",
+        "starting_point": "Dera Jaipur at 6:30 am and City Palace Parking at 11:30 am",
+        "time_taken": "2 hrs and Food tasting at 6-8 stops",
+        "important_stops": "Ghee Walon Ka Raasta, Kishanpole Bazaar: Shankar ki Namkeen, Samrat Chai, Sambhar Ki Pheeni, Aachar shop"
+      },
+      "rate": "INR 3,000 per person. Taxes as applicable.",
+      "inclusions": "Guide (English speaking), food, history, conversation, exploring major avenues of Jaipur city, pick and drop from Dera Jaipur"
+    },
+    {
+      "name": "Heritage Walk",
+      "description": "The heritage walk offers an intimate glimpse into the city’s royal legacy and traditional way of life. Unlike typical sightseeing tours, this walk weaves through narrow alleys, bustling bazaars, ancient temples, and forgotten havelis, each corner revealing hidden treasures and untold stories.",
+      "details": {
+        "start_time": "6:30 am/ 11:30 am",
+        "starting_point": "Dera Jaipur at 6:30 am and City Palace Parking at 11:30 am",
+        "time_taken": "2.5 hrs",
+        "important_stops": "Govind Dev Ji Mandir, Flower market, Man Singh Town Hall, Kalki Ji Temple, Maharaja Sanskrit University, Meera Bai Temple, Chaupads and its gates"
+      },
+      "rate": "INR 3,000 per person. Taxes as applicable.",
+      "inclusions": "Guide (English speaking), light refreshments, water bottles, pick and drop from Dera Jaipur"
+    },
+    {
+      "name": "Camping and stargazing on a farm",
+      "description": "There is something truly magical about spending a night under the stars, and when paired with the rustic charm of a countryside farm, the experience becomes unforgettable. Camping on a farm offers a peaceful retreat from the noise and bustle of everyday life. Surrounded by open fields, grazing animals, and the gentle sounds of nature, you can slow down and reconnect with the world around you.",
+      "details": {
+        "start_time": "4 pm",
+        "starting_point": "Dera Jaipur"
+      },
+      "rate": "INR 5,000 per person. Taxes as applicable.",
+      "inclusions": "Guide (English speaking), Evening tea, games, folk music, vegetarian dinner, stargazing, camping in water-proof dome tents, early morning yoga, breakfast, pick and drop from Dera Jaipur"
+    }
+  ],
+  "faq": [
+    {
+      "question": "We are 3 adults, which is the best category of room?",
+      "keywords": ["3 adults"],
+      "answer": "The Suite room has triple occupancy and would be best suited. In case of an extra adult or child, one extra bed can be provided on charge."
+    },
+    {
+      "question": "We are 2 adults and a child and need an extra bed, which is the best category of room?",
+      "keywords": ["2 adults, 1 child"],
+      "answer": "The Super Deluxe Double room has double occupancy and would be best suited. One extra bed can be provided on charge."
+    },
+    {
+      "question": "We are 4 adults, which is the best category of room?",
+      "keywords": ["4 adults"],
+      "answer": "The Premium Luxury Suite room has quadruple occupancy and would be best suited. In case of an extra adult or child, one extra bed can be provided on charge."
+    },
+    {
+      "question": "Do you have twin or hollywood twin beds?",
+      "keywords": ["Twin bed"],
+      "answer": "Yes we have 2 super Deluxe Twin beds and we can also convert our Super Super Deluxe Double rooms into Hollywood Twin beds."
+    },
+    {
+      "question": "I am a single person, which is the best category of room?",
+      "keywords": ["1 adult, single person"],
+      "answer": "The Queen Room is best suited for a single person. It however, does not have a television, minibar or writing desk and chair."
+    },
+    {
+      "question": "Do you have experiences?",
+      "keywords": ["cooking demo, experiences, traditional wear, walks, treks, tours"],
+      "answer": "Yes we have the following: Traditional wear experience (without photograph) 2000, Traditional wear experience (with photograph) 5000, Learn Rajasthani Block Printing 3000, Learn Rajasthani Mural Painting 3000, Rajasthani Food Cooking Demonstration and Home Tour 5000, Experience Fine Dining in Silver Thali 5000, Dussehra/ Diwali/ Makar Sankranti/ Holi celebration 5000, Renew Your Marriage Vows 50000, Early morning temple visit 4000, Hiking near Amber Fort 3000, Bicycle Tour 4000, Breakfast Food Walk: -3000, Heritage Walk 3000, Camping and stargazing on a farm 5000"
+    },
+    {
+      "question": "Are events allowed?",
+      "keywords": [],
+      "answer": "Yes events are allowed on prior permission and are chargeable."
+    },
+    {
+      "question": "Is commercial photography allowed?",
+      "keywords": [],
+      "answer": "No commercial photography is only allowed on prior permission and is chargeable."
+    },
+    {
+      "question": "Is outside food allowed?",
+      "keywords": [],
+      "answer": "Yes you may order food from outside and enjoy in the designated dining area."
+    },
+    {
+      "question": "Is smoking allowed?",
+      "keywords": [],
+      "answer": "The rooms are non-smoking. You may smoke in the outdoor deck area."
+    },
+    {
+      "question": "Does the property have a pool?",
+      "keywords": [],
+      "answer": "Yes there is a plunge pool with jacuzzi. It is non heated."
+    },
+    {
+      "question": "Is there a lift?",
+      "keywords": [],
+      "answer": "Yes, there is a lift."
+    },
+    {
+      "question": "Are non-vegetarian meals served?",
+      "keywords": [],
+      "answer": "Yes, non-vegetarian meals are served."
+    },
+    {
+      "question": "Are vegan meals served?",
+      "keywords": [],
+      "answer": "Yes, vegan meals are served."
+    },
+    {
+      "question": "Are gluten free meals served?",
+      "keywords": [],
+      "answer": "Yes, gluten free meals are served."
+    }
+  ]
+}
